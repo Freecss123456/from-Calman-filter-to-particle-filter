@@ -8,4 +8,5 @@
 ![Full_probability_formula](https://github.com/Freecss123456/from-Calman-filter-to-particle-filter/blob/master/image/Full_probability_formula%20.png)
 
 贝叶斯公式：
+![Bias_formula](https://github.com/Freecss123456/from-Calman-filter-to-particle-filter/blob/master/image/Bias_formula.png)
 
