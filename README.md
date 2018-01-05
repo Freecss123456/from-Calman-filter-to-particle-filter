@@ -4,3 +4,7 @@
 卡尔曼滤波公式：
 ![kalman](https://github.com/Freecss123456/from-Calman-filter-to-particle-filter/blob/master/image/calman.jpg)
 
+全概率公式：
+
+贝叶斯公式：
+
