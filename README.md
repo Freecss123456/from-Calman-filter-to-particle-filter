@@ -1,6 +1,8 @@
 # from-Calman-filter-to-particle-filter
-参考：http://blog.csdn.net/heyijia0327/article/details/40899819
-https://blog.csdn.net/navsense_support/article/details/146231513
+参考：
+贝叶斯滤波：http://blog.csdn.net/heyijia0327/article/details/40899819
+卡尔曼滤波：https://blog.csdn.net/navsense_support/article/details/146231513
+无迹卡尔曼滤波：https://zhuanlan.zhihu.com/p/328541130
 卡尔曼滤波公式：
 ![kalman](https://github.com/Freecss123456/from-Calman-filter-to-particle-filter/blob/master/image/calman.jpg)
 
